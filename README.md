@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Machine Learning
+🌱 I’m currently learning Machine Learning<br>
 📫 How to reach me:kaushikdwivedi22@gmai.com
