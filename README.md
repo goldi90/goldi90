@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning Machine Learning<br>
-📫 How to reach me:kaushikdwivedi22@gmai.com
+📫 How to reach me:kaushikdwivedi22@gmai.com<br>
+ **Contact ME**
+ 
